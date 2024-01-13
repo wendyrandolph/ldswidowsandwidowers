@@ -1,0 +1,241 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Guideline\n"
+"POT-Creation-Date: 2016-10-10 17:46+0530\n"
+"PO-Revision-Date: 2016-10-10 17:46+0530\n"
+"Last-Translator: \n"
+"Language-Team: ClassicTemplate <support@classictemplate.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;__;_e;gettext;gettext_noop;esc_attr;esc_attr__;"
+"esc_attr_e;esc_html;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr ""
+
+#: 404.php:17
+msgid ""
+"Looks like you have taken a wrong turn.....Dont worry... it happens to the "
+"best of us."
+msgstr ""
+
+#: comments.php:36 comments.php:56
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:37 comments.php:57
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:38 comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: content-page.php:18 content-single.php:26 content.php:32 image.php:51
+#: template-full-width.php:24
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:23 content-single.php:36 image.php:29 image.php:56
+#: inc/template-tags.php:23
+msgid "Edit"
+msgstr ""
+
+#: content.php:25 header.php:43 header.php:132
+msgid "Read More"
+msgstr ""
+
+#: content.php:29
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: footer.php:30
+msgid "&copy; 2016"
+msgstr ""
+
+#: footer.php:30
+msgid "All Rights Reserved"
+msgstr ""
+
+#: footer.php:33
+msgid "http://classictemplate.com/"
+msgstr ""
+
+#: footer.php:34
+#, php-format
+msgid "Design and Develop by %s"
+msgstr ""
+
+#: functions.php:39
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:40
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:52
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:53
+msgid "Appears on blog page sidebar"
+msgstr ""
+
+#: functions.php:62
+msgid "Footer Widget 1"
+msgstr ""
+
+#: functions.php:63 functions.php:73 functions.php:83 functions.php:93
+msgid "Appears on footer"
+msgstr ""
+
+#: functions.php:72
+msgid "Footer Widget 2"
+msgstr ""
+
+#: functions.php:82
+msgid "Footer Widget 3"
+msgstr ""
+
+#: functions.php:92
+msgid "Footer Widget 4"
+msgstr ""
+
+#: header.php:62
+msgid "Menu"
+msgstr ""
+
+#: header.php:97
+msgid "Read More about me &rarr;"
+msgstr ""
+
+#: image.php:19
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+
+#: image.php:33
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: image.php:34
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/customizer.php:31
+msgid "Site Layout"
+msgstr ""
+
+#: inc/customizer.php:41
+msgid "Check to Box Layout"
+msgstr ""
+
+#: inc/customizer.php:53
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:54
+msgid "More color options in PRO Version"
+msgstr ""
+
+#: inc/customizer.php:62
+msgid "Header Banner"
+msgstr ""
+
+#: inc/customizer.php:64
+msgid "Recommended Featured Image Size ( 1400x600 )."
+msgstr ""
+
+#: inc/customizer.php:74
+msgid "Select page for header banner"
+msgstr ""
+
+#: inc/customizer.php:86 inc/customizer.php:116 inc/customizer.php:188
+msgid "Uncheck To Enable This Section"
+msgstr ""
+
+#: inc/customizer.php:92
+msgid "Who I Am Section"
+msgstr ""
+
+#: inc/customizer.php:93
+msgid "Select Page from the dropdown for who i am page"
+msgstr ""
+
+#: inc/customizer.php:123
+msgid "Services Section"
+msgstr ""
+
+#: inc/customizer.php:124
+msgid "Select Pages from the dropdown for services section"
+msgstr ""
+
+#: inc/customizer.php:134
+msgid "Add title for why choose us"
+msgstr ""
+
+#: inc/template-tags.php:23
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:35
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:126
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Published %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+
+#: no-results.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#: no-results.php:15
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: no-results.php:17
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: no-results.php:20
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: sidebar.php:11
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:18
+msgid "Meta"
+msgstr ""

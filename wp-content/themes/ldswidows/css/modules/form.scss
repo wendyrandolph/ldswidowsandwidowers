@@ -1,0 +1,119 @@
+form {
+    margin-top: 0rem;
+
+ & input:read-write {
+        background: #fff !important;
+    }
+
+    & input[type=submit] {
+            width: 50%; 
+            cursor: pointer;
+            border-radius: 4px;
+            overflow: hidden;
+            text-decoration: none;
+            color: #fff;
+            font-size: 1.19rem;
+            padding: 12px 24px;
+            border: none;
+            outline: none;
+            background: $mainBlue; 
+    
+        @include atSmall {
+        width: 100%;
+           }   }
+    & input[type=submit]:hover{ 
+    background: linear-gradient(scale-color($mainBlue, $lightness: 11%), $mainBlue);
+        color: white;
+    }
+    
+    & input[type="checkbox"] {
+        display: inline;
+        width: 20px;
+        margin-right: 10px;
+
+    }
+
+    & label {
+        text-align: left;
+        padding-left: 10px !important;
+        margin-top: 10px !important;
+        color: var(--first_color);
+    }
+
+    & select {
+        width: 100%;
+        padding: 10px 12px;
+        margin: 5px;
+        background-color: white;
+    }
+
+    & .step3 {
+        border: 2px solid;
+        margin-left: 20px;
+    }
+
+    & .likert {
+        justify-content: space-evenly;
+        list-style: none;
+        width: 100%;
+        margin: 0;
+        padding: 0 0 35px;
+        border-bottom: 2px solid #efefef;
+    }
+
+
+
+    & .form {
+        display: block;
+        margin: 0 auto;
+        padding: 20px;
+    }
+
+    & label .input {
+        color: black;
+        font-size: 14px !important;
+        border-radius: 0;
+        display: block;
+        margin-left: 5px;
+
+    }
+
+    & input.input {
+
+        margin: 5px;
+    }
+
+    & input.input,
+    select.input {
+        width: 100%;
+        background: #fff;
+    }
+
+    & form .likert li {
+        display: inline-block;
+        gap: 10px;
+        width: 19%;
+        vertical-align: top;
+    }
+
+    & form .likert li input[type=radio] {
+        /*display:block;*/
+        position: relative;
+        top: 0;
+        left: 50%;
+        margin-left: -6px;
+
+    }
+
+    & form .likert li label {
+        width: 100%;
+        text-align: center;
+    }
+
+    & label,
+    input {
+        display: inline-block;
+        vertical-align: middle;
+
+    }
+}

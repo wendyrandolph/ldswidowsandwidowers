@@ -1,0 +1,21 @@
+2023-02-01T01:44:16+00:00 CRITICAL syntax error, unexpected ';', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/customer/www/wendyc42.sg-host.com/public_html/wp-content/themes/neve-child/functions.php on line 6
+
+2023-02-01T01:44:16+00:00 CRITICAL syntax error, unexpected ';', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/customer/www/wendyc42.sg-host.com/public_html/wp-content/themes/neve-child/functions.php on line 6
+
+2023-02-01T04:47:05+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ';' or ',' in /home/customer/www/wendyc42.sg-host.com/public_html/library/connections.php on line 21
+
+2023-02-01T05:14:00+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ';' or ',' in /home/customer/www/wendyc42.sg-host.com/public_html/library/connections.php on line 21
+
+2023-02-01T05:14:41+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ';' or ',' in /home/customer/www/wendyc42.sg-host.com/public_html/library/connections.php on line 21
+
+2023-02-01T05:16:24+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ';' or ',' in /home/customer/www/wendyc42.sg-host.com/public_html/library/connections.php on line 21
+
+2023-02-01T05:20:08+00:00 CRITICAL require_once(): Failed opening required '/home/customer/www/wendyc42.sg-host.com/public_html/model/clients-model.php' (include_path='.:/usr/local/php74/pear') in /home/customer/www/wendyc42.sg-host.com/public_html/accounts/index.php on line 16
+
+2023-02-01T05:20:47+00:00 CRITICAL Uncaught Error: Call to undefined function getUser() in /home/customer/www/wendyc42.sg-host.com/public_html/accounts/index.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/wendyc42.sg-host.com/public_html/accounts/index.php on line 47
+
+2023-02-01T16:22:23+00:00 CRITICAL syntax error, unexpected 'catch' (T_CATCH), expecting end of file in /home/customer/www/wendyc42.sg-host.com/public_html/library/connections.php on line 18
+

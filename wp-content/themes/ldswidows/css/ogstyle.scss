@@ -1,0 +1,426 @@
+/* SASS and Global'ish Stuff */
+@import "base/variables";
+
+
+$workshop1: #90ee90;
+$workshop2: #ffffe0;
+$workshop3: #20b2aa;
+$workshop4: #b0c4de;
+$workshop5: #faebd7;
+$workshop6: #e6e6fa;
+$workshop7: #f08080;
+$workshop8: #add8e6;
+
+.row {
+    margin-top: 20px;
+}
+/* Bootstrap override */
+.col-sm-6,
+.col-lg-8 {
+    margin-right: auto;
+    margin-left: auto;
+
+}
+/*  *******************  */
+.card-img {
+    padding-top: 20px;
+    margin-left: 20px;
+
+}
+
+@media only screen and (max-width: 600px) {
+    .card-img {
+        width: 50%;
+        padding-top: 20px;
+        margin-right: auto;
+
+        margin-left: auto;
+    }
+}
+
+
+.page-content {
+    margin-top: 55px;
+}
+
+
+a.icon {
+    display: none;
+}
+
+.details {
+    max-width: 50rem;
+}
+
+/* Font Specific Styles */
+h4 {
+    margin-top: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+    h4 {
+        text-align: center;
+    }
+}
+
+wp-block-image size-full {
+    text-align: center;
+}
+
+[data-row-id] {
+    background-color: var(--first_color);
+}
+
+
+.current {
+    border-top: 2px solid var(--third_color);
+    border-left: 3px solid var(--first_color) !important;
+    color: var(--third_color);
+    font-size: 20px;
+}
+
+.desktop_view {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+
+.trial {
+    max-width: 1024px;
+    display: block;
+    justify-content: center;
+}
+
+.reset {
+    display: inline-flex;
+    margin: 0 auto;
+    padding: 10px;
+    width: 100%;
+}
+
+.alert {
+    color: var(--alert_1) !important;
+    padding: 20px;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+.link_2 {
+    color: var(--alert_1) !important;
+}
+
+label.align {
+
+    padding: 0 !important;
+    display: inline;
+
+}
+
+p.align {
+    margin: 0 !important;
+    padding: 0 !important;
+
+    color: #efefef;
+
+}
+form{ width: 100%; }
+.heading {
+    vertical-align: top;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 40px;
+
+}
+
+.heading1 {
+    background: #0d3b66;
+    color: white;
+    padding: 10px !important;
+    font-size: 35px;
+    text-transform: none !important;
+}
+
+@media only screen and (max-width: 600px) {
+    .heading1 {
+        font-size: 20px; 
+    }
+    .row { 
+        
+        display: block; 
+    }
+    
+
+}
+
+.content {
+    width: 1300px;
+    margin: 0 auto;
+
+}
+
+.presentation {
+
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.padding {
+    max-width: 30rem;
+    padding: 15px !important;
+    color: var(--first_color);
+    border-bottom: 1px solid var(--first_color);
+    list-style: none;
+}
+
+.workshop {
+
+padding: 10px;
+
+}
+
+.workshopHeader { 
+    margin-bottom: 0;
+        padding: 10px;
+        background: black;
+        color: white;
+        text-transform: uppercase;
+
+}
+
+.w1-border-bottom {
+    padding: 5px;
+
+}
+
+.p-links {
+    margin-bottom: 0;
+}
+
+.question {
+    padding: 10px;
+    background-color: black;
+    color: #fff;
+    font-size: 20px; 
+}
+
+.nav-link {
+    width: 100%;
+    display: block;
+    background-color: var(--third_color) !important;
+    color: var(--first_color) !important;
+    text-transform: uppercase;
+    text-align: left;
+    border-radius: 0px;
+    padding: 15px;
+    border-bottom: 1px solid var(--first_color);
+
+}
+
+.nav-link:hover {
+    transition-duration: .4s;
+    font-size: 16px;
+    text-transform: uppercase;
+    display: block;
+    background: var(--accent2) !important;
+    color: var(--first_color) !important;
+}
+
+.name {
+    display: inline-block;
+}
+
+.list {
+    width: 100%;
+}
+
+@media only screen and (max-width: 600px) {
+    .list {
+        width: 100%;
+    }
+
+}
+.div1 {
+    margin-top: 20px;
+    float: left;
+
+}
+
+.div2 {
+    margin-left: 250px;
+    padding-left: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+    .div1 {
+        margin: 50px;
+        float: unset;
+    }
+
+    .div2 {
+        margin-left: 0px;
+        padding-left: 20px;
+    }
+}
+.test {
+    margin: 37px 10px 20px -33px;
+    padding-right: 20px;
+    grid-column: 2;
+    border-radius: 5px;
+    display: flow-root;
+}
+
+
+.workshop1 {
+    background-color: $workshop1;
+    }
+
+
+.workshop2 {
+    background-color: $workshop2;
+}
+
+
+.workshop3 {
+    background-color: $workshop3;
+}
+
+
+.workshop4 {
+    background-color: $workshop4;
+}
+
+.workshop5 {
+    background-color: $workshop5;
+}
+
+
+.workshop6 {
+    background-color: $workshop6;
+}
+
+
+.workshop7 {
+    background-color: $workshop7;
+}
+
+
+.workshop8 {
+    background-color: $workshop8;
+}
+
+img.reg {
+    border: 10px solid var(--accent_color);
+    margin: 10px;
+}
+
+.table {
+    text-align: center;
+    vertical-align: top;
+}
+
+p.login {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+table #data {
+    background: rgba(0, 153, 153);
+    margin-top: 20px !important;
+    color: white !important;
+}
+
+table #Kdata {
+    background: rgba(0, 153, 153);
+    margin-top: 20px !important;
+    color: white !important;
+}
+
+table #data>td {
+    border: none !important;
+
+}
+
+table #gender {
+    background: rgba(201, 203, 207) !important;
+    margin-top: 20px !important;
+    color: white !important;
+}
+
+ul.display {
+
+    color: var(--first_color);
+    padding: 13px !important;
+
+}
+
+ul {
+    padding: 0 !important;
+}
+
+
+
+
+.step5 {
+    text-align: left;
+    text-transform: uppercase;
+    font-size: 16px;
+    background: var(--second_color);
+    color: white;
+    margin: 15px 0;
+    width: 50%;
+    padding: 10px;
+}
+
+.success {
+    background: coral;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+p.display {
+    color: var(--first_color);
+    padding: 10px;
+}
+
+td {
+    color: black !important;
+    font-size: 14px;
+    margin: 5px;
+}
+
+
+
+.topnav {
+    line-height: 20px;
+    border-bottom: 2px solid white;
+    overflow: hidden;
+    text-align: center;
+}
+
+
+
+
+p.update {
+    width: 50%;
+    background-color: var(--first_color);
+    color: var(--second_color);
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.response {
+    margin-top: 20px;
+    text-align: center;
+    font-weight: 300;
+}
+
+
+.name {
+    display: inline-block;
+}

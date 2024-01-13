@@ -1,0 +1,67 @@
+.test {
+    border-radius: 5px;
+
+    & :nth-of-type(1) {
+        background-color: lightyellow;
+    }
+
+    & :nth-of-type(2) {
+        background-color: lightyellow;
+    }
+
+    & :nth-of-type(3) {
+        background-color: lightseagreen;
+    }
+
+    & :nth-of-type(4) {
+        background-color: lightsteelblue;
+    }
+
+    & :nth-of-type(5) {
+        background-color: antiquewhite;
+    }
+
+    & :nth-of-type(6) {
+        background-color: lavender;
+    }
+
+    & :nth-of-type(7) {
+        background-color: lightcoral;
+    }
+
+    & :nth-of-type(8) {
+        background-color: lightblue;
+    }
+}
+
+.workshop1 {
+    background-color: lightyellow;
+}
+
+.workshop2 {
+    background-color: lightyellow;
+}
+
+.workshop3 {
+    background-color: lightseagreen;
+}
+
+.workshop4 {
+    background-color: lightsteelblue;
+}
+
+.workshop5 {
+    background-color: antiquewhite;
+}
+
+.workshop6 {
+    background-color: lavender;
+}
+
+.workshop7 {
+    background-color: lightcoral;
+}
+
+.workshop8 {
+    background-color: lightblue;
+}

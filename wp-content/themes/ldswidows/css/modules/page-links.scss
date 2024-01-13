@@ -1,0 +1,61 @@
+.page-links {
+  position: relative;
+  z-index: 1;
+  background-color: $beige;
+  margin: 10px 0 40px 0;
+
+
+  @include atSmallMedium {
+    margin: 80px 0 40px 20px;
+    width: 300px;
+    float: right;
+  }
+
+  &__title {
+    margin: 0;
+    font-weight: normal;
+    text-align: center;
+    padding: 20px 0;
+    background-color: $mainBlue;
+    color: #fff;
+  
+  }
+    a {
+      
+      text-decoration: none;
+      
+    }
+        
+  
+
+  li {
+    border-top: 1px solid $first_color;
+    list-style: none;
+  }
+
+  li:first-child {
+    border-top: none;
+  }
+
+  &__active,
+  & .current_page_item {
+    text-align: center;
+    background-color: scale-color($beige, $lightness: -7%, $saturation: -10%);
+    color: $mainBlue;
+    font-weight: bold;
+  }
+
+  li a {
+    display: block;
+    text-align: left;
+    padding: 17px 10px;
+    text-decoration: none;
+    color: $mainBlue;
+    transition: all 0.3s;
+  }
+
+  li a:hover {
+    color: adjust-color($mainBlue, $lightness: -6%);
+    background-color: scale-color($beige, $lightness: -9%, $saturation: -12%);
+  }
+}
