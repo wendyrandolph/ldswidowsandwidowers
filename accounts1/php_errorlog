@@ -1,0 +1,422 @@
+[10-Jul-2023 13:52:35 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/library/functions.php on line 331
+[10-Jul-2023 13:55:02 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/library/functions.php on line 331
+[10-Jul-2023 13:55:19 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/library/functions.php on line 331
+[10-Jul-2023 13:56:57 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/library/functions.php on line 331
+[10-Jul-2023 13:58:13 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/library/functions.php on line 331
+[10-Jul-2023 13:58:24 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/library/functions.php on line 331
+[10-Jul-2023 13:58:45 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/library/functions.php on line 331
+[10-Jul-2023 13:59:56 UTC] PHP Parse error:  syntax error, unexpected ';', expecting '{' in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/main-model.php on line 643
+[10-Jul-2023 14:00:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/library/functions.php:372) in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 172
+[10-Jul-2023 14:01:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/library/functions.php:372) in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 172
+[10-Jul-2023 20:43:40 UTC] PHP Parse error:  syntax error, unexpected 'WHERE' (T_STRING) in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/main-model.php on line 1206
+[10-Jul-2023 20:56:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php:180) in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 205
+[10-Jul-2023 20:57:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php:186) in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 205
+[10-Jul-2023 22:03:13 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/library/functions.php on line 328
+[10-Jul-2023 22:03:32 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/library/functions.php on line 349
+[10-Jul-2023 22:07:56 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/library/functions.php on line 351
+[10-Jul-2023 22:10:12 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/library/functions.php on line 349
+[10-Jul-2023 22:21:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/library/functions.php:328) in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 205
+[10-Jul-2023 22:24:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/library/functions.php:328) in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 205
+[10-Jul-2023 22:24:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/library/functions.php:328) in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 205
+[10-Jul-2023 22:32:06 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/library/functions.php on line 355
+[10-Jul-2023 22:32:18 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/library/functions.php on line 355
+[10-Jul-2023 22:32:24 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/library/functions.php on line 355
+[10-Jul-2023 22:32:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/library/functions.php:400) in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 921
+[12-Jul-2023 02:21:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 940
+[14-Jul-2023 21:30:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/accounts-model.php:54
+Stack trace:
+#0 /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/accounts-model.php(54): PDOStatement->execute()
+#1 /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php(355): confEmailCheck('wendy.randolph@...', 'Wendy ', 'Causey')
+#2 {main}
+  thrown in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 54
+[14-Jul-2023 21:31:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/accounts-model.php:53
+Stack trace:
+#0 /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/accounts-model.php(53): PDOStatement->execute()
+#1 /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php(355): confEmailCheck(NULL, 'Wendy ')
+#2 {main}
+  thrown in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 53
+[14-Jul-2023 22:12:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'userName' cannot be null in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/accounts-model.php:191
+Stack trace:
+#0 /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/accounts-model.php(191): PDOStatement->execute()
+#1 /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php(585): regClient(NULL, 'Wendy ', 'Randolph', 'wendy.randolph@...', '156 W Royal Lan...', 'Santaquin ', 'Utah', 'Utah', '84655', NULL, '(385) 422-4173', '50-59', 'Female', '8 years or more', '4 or more', NULL, NULL, '$2y$10$kqxRqhMg...')
+#2 {main}
+  thrown in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 191
+[14-Jul-2023 22:15:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'userName' cannot be null in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/accounts-model.php:191
+Stack trace:
+#0 /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/accounts-model.php(191): PDOStatement->execute()
+#1 /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php(585): regClient(NULL, 'Wendy ', 'Randolph', 'wendy.randolph@...', '156 W Royal Lan...', 'Santaquin ', 'Utah', 'Utah', '84655', NULL, '(385) 422-4173', '50-59', 'Female', '8 years or more', '4 or more', NULL, NULL, '$2y$10$7hbwRWwp...')
+#2 {main}
+  thrown in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 191
+[15-Jul-2023 03:26:41 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 743
+[15-Jul-2023 03:46:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php:8) in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 63
+[15-Jul-2023 03:46:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php:8) in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 207
+[16-Jul-2023 23:51:02 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE) in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 248
+[17-Jul-2023 01:55:12 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 429
+[17-Jul-2023 01:55:28 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE) in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 475
+[17-Jul-2023 01:56:17 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 462
+[17-Jul-2023 01:56:32 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE) in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 475
+[17-Jul-2023 01:56:41 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE) in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 475
+[17-Jul-2023 01:58:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function confEmailCheck2() in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php:428
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 428
+[17-Jul-2023 01:58:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbc5le46avauj6.2022_idaho' doesn't exist in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/accounts-model.php:80
+Stack trace:
+#0 /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/accounts-model.php(80): PDOStatement->execute()
+#1 /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php(428): confEmailCheck2(NULL, 'Wendy')
+#2 {main}
+  thrown in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 80
+[19-Jul-2023 21:53:14 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 466
+[19-Jul-2023 21:53:25 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE), expecting end of file in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 469
+[20-Jul-2023 02:32:23 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function confirmUSER(), 13 passed in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 459 and exactly 14 expected in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/library/functions.php:44
+Stack trace:
+#0 /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php(459): confirmUSER('Wendy', 'Randolph', 'wendy.randolph@...', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL)
+#1 {main}
+  thrown in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/library/functions.php on line 44
+[20-Jul-2023 02:35:44 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function confirmUSER(), 13 passed in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 459 and exactly 14 expected in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/library/functions.php:44
+Stack trace:
+#0 /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php(459): confirmUSER('Wendy', 'Randolph', 'wendy.randolph@...', NULL, 'Santaquin', 'Ut', NULL, NULL, NULL, '385-422-4173', 'Female', NULL, NULL)
+#1 {main}
+  thrown in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/library/functions.php on line 44
+[20-Jul-2023 02:38:32 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function confirmUSER(), 13 passed in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 459 and exactly 14 expected in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/library/functions.php:44
+Stack trace:
+#0 /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php(459): confirmUSER('Wendy', 'Randolph', 'wendy.randolph@...', NULL, 'Santaquin', 'Ut', NULL, NULL, NULL, '385-422-4173', 'Female', NULL, NULL)
+#1 {main}
+  thrown in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/library/functions.php on line 44
+[20-Jul-2023 02:39:05 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 460
+[20-Jul-2023 02:39:15 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 460
+[20-Jul-2023 02:39:39 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 460
+[20-Jul-2023 19:12:19 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE) in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 450
+[26-Jul-2023 23:55:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'address' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:232
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(232): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/accounts1/index.php(656): regClient('myersmargielee', 'Margie ', 'Myers Jones ', 'snmlmyers@yahoo...', NULL, 'Nampa ', 'ID', NULL, NULL, NULL, '208-899-3270', 'Female', NULL, NULL, NULL, '1', '1', '$2y$10$qss.m4yV...')
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 232
+[27-Jul-2023 20:02:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'address' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:232
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(232): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/accounts1/index.php(656): regClient('Myersmargielee', 'Margie ', 'Myers Jones ', 'snmlmyers@yahoo...', NULL, 'Nampa ', 'ID', NULL, NULL, NULL, '208-899-3270', 'Female', NULL, NULL, NULL, '1', '1', '$2y$10$fO5hFgS5...')
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 232
+[27-Jul-2023 20:14:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'address' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:232
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(232): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/accounts1/index.php(656): regClient('myersmargielee', 'Margie ', 'Myers Jones ', 'snmlmyers@yahoo...', NULL, 'Nampa ', 'ID', NULL, NULL, NULL, '208-899-3270', 'Female', NULL, NULL, NULL, '1', '1', '$2y$10$Utb6ijjx...')
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 232
+[27-Jul-2023 20:23:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'address' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:232
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(232): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/accounts1/index.php(656): regClient('myersmargielee', 'Margie ', 'Myers Jones ', 'snmlmyers@yahoo...', NULL, 'Nampa ', 'ID', NULL, NULL, NULL, '208-899-3270', 'Female', NULL, NULL, NULL, '1', '1', '$2y$10$8L4ZxbQw...')
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 232
+[27-Jul-2023 20:38:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'address' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:232
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(232): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/accounts1/index.php(656): regClient('snmlmyers@yahoo...', 'Margie ', 'Myers Jones ', 'snmlmyers@yahoo...', NULL, 'Nampa ', 'ID', NULL, NULL, NULL, '208-899-3270', 'Female', NULL, NULL, NULL, '1', '1', '$2y$10$aVlCqP6Z...')
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 232
+[27-Jul-2023 22:02:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'address' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:232
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(232): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/accounts1/index.php(656): regClient('stevejett', 'Steven', 'Jett', 'sjett80@gmail.c...', NULL, 'Garden Valley', 'ID', NULL, NULL, NULL, '208-407-8915', 'Male', NULL, NULL, NULL, '1', '1', '$2y$10$qBo4AmEB...')
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 232
+[27-Jul-2023 22:03:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'address' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:232
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(232): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/accounts1/index.php(656): regClient('Stevejett', 'Steven', 'Jett', 'sjett80@gmail.c...', NULL, 'Garden Valley', 'ID', NULL, NULL, NULL, '208-407-8915', 'Male', NULL, NULL, NULL, '1', '1', '$2y$10$zgxqJluw...')
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 232
+[27-Jul-2023 22:04:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'address' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:232
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(232): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/accounts1/index.php(656): regClient('Stevejett', 'Steven', 'Jett', 'sjett80@gmail.c...', NULL, 'Garden Valley', 'ID', NULL, NULL, NULL, '208-407-8915', 'Male', NULL, NULL, NULL, '1', '1', '$2y$10$H9OLIuRJ...')
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 232
+[27-Jul-2023 22:10:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'address' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:232
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(232): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/accounts1/index.php(656): regClient('sjett', 'Steven', 'Jett', 'sjett80@gmail.c...', NULL, 'Garden Valley', 'ID', NULL, NULL, NULL, '208-407-8915', 'Male', NULL, NULL, NULL, '1', '1', '$2y$10$Wy2wwAgd...')
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 232
+[28-Jul-2023 00:07:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'address' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:232
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(232): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/accounts1/index.php(656): regClient('Thinson', 'Terry', 'Hinson', 'cons8328@aol.co...', NULL, 'Boise', 'ID', NULL, NULL, NULL, '281-785-6105', 'Female', NULL, NULL, NULL, '1', '1', '$2y$10$23ak4J3p...')
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 232
+[28-Jul-2023 00:13:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'address' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:232
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(232): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/accounts1/index.php(656): regClient('Thinson', 'Terry', 'Hinson', 'cons8328@aol.co...', NULL, 'Boise', 'ID', NULL, NULL, NULL, '281-785-6105', 'Female', NULL, NULL, NULL, '1', '1', '$2y$10$f.Ip0MvL...')
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 232
+[28-Jul-2023 00:42:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'address' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:232
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(232): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/accounts1/index.php(656): regClient('wendyran', 'Wendy', 'Randolph', 'wendy.randolph@...', NULL, 'Santaquin', 'Ut', NULL, NULL, NULL, '385-422-4173', 'Female', NULL, NULL, NULL, '1', '1', '$2y$10$r0mSAXU2...')
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 232
+[28-Jul-2023 00:55:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'address' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:232
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(232): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/accounts1/index.php(656): regClient('selockhart', 'Stan', 'Lockhart', 'stanlockhartuta...', NULL, 'Pleasant Grove', 'UT', NULL, NULL, NULL, '8013682166', 'Male', NULL, NULL, NULL, '1', '1', '$2y$10$KrXxh8F7...')
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 232
+[28-Jul-2023 00:58:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'address' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:232
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(232): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/accounts1/index.php(656): regClient('selockhart', 'Stan', 'Lockhart', 'stanlockhartuta...', NULL, 'Pleasant Grove', 'UT', NULL, NULL, NULL, '8013682166', 'Male', NULL, NULL, NULL, '1', '1', '$2y$10$9hdaZBQJ...')
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 232
+[28-Jul-2023 01:13:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'address' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:232
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(232): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/accounts1/index.php(623): regClient('wendyran', 'Wendy', 'Randolph', 'wendy.randolph@...', NULL, 'Santaquin', 'Ut', NULL, NULL, NULL, '385-422-4173', 'Female', NULL, NULL, NULL, '1', '1', '$2y$10$Oj1ZCf.m...')
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 232
+[28-Jul-2023 01:13:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'address' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:232
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(232): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/accounts1/index.php(623): regClient('wendyran', 'Wendy', 'Randolph', 'wendy.randolph@...', NULL, 'Santaquin', 'Ut', NULL, NULL, NULL, '385-422-4173', 'Female', NULL, NULL, NULL, '1', '1', '$2y$10$Z9WZqEsR...')
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 232
+[28-Jul-2023 01:13:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'address' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:232
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(232): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/accounts1/index.php(623): regClient('wendyran', 'Wendy', 'Randolph', 'wendy.randolph@...', NULL, 'Santaquin', 'Ut', NULL, NULL, NULL, '385-422-4173', 'Female', NULL, NULL, NULL, '1', '1', '$2y$10$kC8PNX9F...')
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 232
+[28-Jul-2023 01:15:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'address' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:232
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(232): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/accounts1/index.php(623): regClient('test1', 'Wendy', 'Randolph', 'wendy.randolph@...', NULL, 'Santaquin', 'Ut', NULL, NULL, NULL, '385-422-4173', 'Female', NULL, NULL, NULL, '1', '1', '$2y$10$auXklmNc...')
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 232
+[28-Jul-2023 01:15:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'address' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:232
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(232): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/accounts1/index.php(623): regClient('test1', 'Wendy', 'Randolph', 'wendy.randolph@...', NULL, 'Santaquin', 'Ut', NULL, NULL, NULL, '385-422-4173', 'Female', NULL, NULL, NULL, '1', '1', '$2y$10$7ewI/kSt...')
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 232
+[28-Jul-2023 01:15:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'address' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:232
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(232): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/accounts1/index.php(623): regClient('test1', 'Wendy', 'Randolph', 'wendy.randolph@...', NULL, 'Santaquin', 'Ut', NULL, NULL, NULL, '385-422-4173', 'Female', NULL, NULL, NULL, '1', '1', '$2y$10$Ffcq3qWk...')
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 232
+[04-Aug-2023 19:36:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isRegisteredIdConf() in /home/customer/www/ldswidowsandwidowers.com/public_html/accounts1/index.php:407
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/accounts1/index.php on line 407
+[06-Sep-2023 17:24:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/customer/www/ldswidowsandwidowers.com/public_html/accounts1/index.php:9) in /home/customer/www/ldswidowsandwidowers.com/public_html/accounts1/index.php on line 1090
+[08-Sep-2023 18:57:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function SAConf() in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php:264
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 264
+[08-Sep-2023 19:06:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/library/functions.php on line 529
+[08-Sep-2023 20:00:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/main-model.php:2063
+Stack trace:
+#0 /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/main-model.php(2063): PDOStatement->execute()
+#1 /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php(251): isRegisteredSAData('74')
+#2 {main}
+  thrown in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/main-model.php on line 2063
+[11-Sep-2023 18:56:10 UTC] PHP Fatal error:  Cannot redeclare idahoMeal() (previously declared in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/main-model.php:1472) in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/main-model.php on line 1620
+[11-Sep-2023 19:21:11 UTC] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/main-model.php on line 1566
+[11-Sep-2023 19:22:01 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/main-model.php on line 1599
+[11-Sep-2023 19:24:17 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/main-model.php on line 1618
+[19-Sep-2023 18:38:47 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE) in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 537
+[19-Sep-2023 19:00:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function SAConfLogin() in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php:308
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 308
+[19-Sep-2023 19:15:39 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 182
+[19-Sep-2023 19:15:49 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE), expecting end of file in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 188
+[19-Sep-2023 19:16:05 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE), expecting end of file in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 185
+[20-Sep-2023 18:18:12 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE) in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/users/index.php on line 1329
+[20-Sep-2023 18:39:09 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE) in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/users/index.php on line 1458
+[25-Sep-2023 17:41:51 UTC] PHP Parse error:  syntax error, unexpected 'SAConfLogin' (T_STRING) in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 218
+[25-Sep-2023 17:45:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isRegisteredAZConf() in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/library/classes.php:1694
+Stack trace:
+#0 /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php(217): AZConfLogin()
+#1 {main}
+  thrown in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/library/classes.php on line 1694
+[25-Sep-2023 18:11:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isRegisteredAZConf() in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/library/classes.php:1694
+Stack trace:
+#0 /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php(222): AZConfLogin()
+#1 {main}
+  thrown in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/library/classes.php on line 1694
+[25-Sep-2023 18:12:23 UTC] PHP Warning:  require_once(/home/u2065-q0uxxggm5pbb/www/staging3.ldswidowsandwidowers.com/public_html/model/arizona-model.php): failed to open stream: No such file or directory in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/users/index.php on line 16
+[25-Sep-2023 18:12:23 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/u2065-q0uxxggm5pbb/www/staging3.ldswidowsandwidowers.com/public_html/model/arizona-model.php' (include_path='.:/usr/local/php74/pear') in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/users/index.php on line 16
+[25-Sep-2023 18:12:49 UTC] PHP Fatal error:  Cannot redeclare sanActUp() (previously declared in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/main-model.php:2580) in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/arizona_model.php on line 205
+[25-Sep-2023 18:20:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'field list' in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/arizona_model.php:21
+Stack trace:
+#0 /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/arizona_model.php(21): PDOStatement->execute()
+#1 /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/library/classes.php(1694): isRegisteredAZConf('74')
+#2 /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php(222): AZConfLogin()
+#3 {main}
+  thrown in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/arizona_model.php on line 21
+[25-Sep-2023 18:23:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'field list' in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/arizona_model.php:21
+Stack trace:
+#0 /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/arizona_model.php(21): PDOStatement->execute()
+#1 /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/library/classes.php(1694): isRegisteredAZConf('74')
+#2 /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/accounts1/index.php(222): AZConfLogin()
+#3 {main}
+  thrown in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/arizona_model.php on line 21
+[28-Sep-2023 01:37:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function login() in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/accounts1/index.php:225
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 225
+[28-Sep-2023 01:37:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/library/classes.php on line 1754
+[28-Sep-2023 02:11:49 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function AZConfLogin(), 0 passed in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 165 and exactly 1 expected in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/library/classes.php:1501
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/accounts1/index.php(165): AZConfLogin()
+#1 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/library/classes.php on line 1501
+[28-Sep-2023 02:56:13 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/library/classes.php:1455
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/accounts1/index.php(168): SAConfLogin()
+#1 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/library/classes.php on line 1455
+[28-Sep-2023 03:06:37 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/library/classes.php on line 1453
+[28-Sep-2023 03:07:11 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/library/classes.php on line 1506
+[28-Sep-2023 03:09:31 UTC] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/library/classes.php on line 1462
+[28-Sep-2023 15:58:24 UTC] PHP Parse error:  syntax error, unexpected '/', expecting case (T_CASE) or default (T_DEFAULT) or '}' in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 173
+[28-Sep-2023 16:10:45 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function AZConfLogin(), 0 passed in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 234 and exactly 1 expected in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/library/classes.php:1502
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/accounts1/index.php(234): AZConfLogin()
+#1 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/library/classes.php on line 1502
+[14-Oct-2023 01:14:59 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 299
+[14-Oct-2023 01:16:04 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 299
+[14-Oct-2023 03:24:56 UTC] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK) in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 343
+[14-Oct-2023 04:51:12 UTC] PHP Parse error:  syntax error, unexpected 'header' (T_STRING) in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 301
+[16-Oct-2023 18:15:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'firstName' cannot be null in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php:232
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php(232): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/accounts1/index.php(479): regClient('mickeymouse123', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, '', NULL, NULL, NULL, NULL, '1', '0', '$2y$10$GZOs/O32...')
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 232
+[16-Oct-2023 18:16:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'firstName' cannot be null in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php:232
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php(232): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/accounts1/index.php(479): regClient('mickeymouse123', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, '', NULL, NULL, NULL, NULL, '1', '0', '$2y$10$PMzJlS0y...')
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 232
+[23-Oct-2023 03:12:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'userName' cannot be null in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php:232
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php(232): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/accounts1/index.php(479): regClient(NULL, 'Wendy ', 'Causey', 'wendyrandolph@y...', '156 W Royal Lan...', 'Santaquin ', 'Utah', 'Utah', '84655', NULL, '(385) 422-4173', '40-49', 'Female', '8 years or more', '4 or more', '1', NULL, '$2y$10$68nGoV9q...')
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 232
+[23-Oct-2023 14:41:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'userName' cannot be null in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php:232
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php(232): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/accounts1/index.php(479): regClient(NULL, 'Wendy ', 'Causey', 'wendy.randolph@...', '156 W Royal Lan...', 'Santaquin ', 'Utah', 'Utah', '84655', NULL, '(385) 422-4173', '40-49', 'Female', '8 years or more', '4 or more', '1', NULL, '$2y$10$Wbwu4P5w...')
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 232
+[23-Oct-2023 15:01:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'userName' cannot be null in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php:232
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php(232): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/accounts1/index.php(480): regClient(NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, '', NULL, NULL, NULL, NULL, '1', NULL, '$2y$10$7/UzYMgq...')
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 232
+[23-Oct-2023 15:39:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'userName' cannot be null in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php:232
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php(232): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/accounts1/index.php(481): regClient(NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, '', NULL, NULL, NULL, NULL, '1', NULL, '$2y$10$KbIQxaMn...')
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 232
+[23-Oct-2023 15:39:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'userName' cannot be null in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php:232
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php(232): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/accounts1/index.php(481): regClient(NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, '', NULL, NULL, NULL, NULL, '1', NULL, '$2y$10$hJfao0JI...')
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 232
+[23-Oct-2023 15:48:37 UTC] PHP Warning:  Use of undefined constant confId - assumed 'confId' (this will throw an Error in a future version of PHP) in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 299
+[23-Oct-2023 16:02:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'userName' cannot be null in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php:232
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php(232): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/accounts1/index.php(484): regClient(NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, '', NULL, NULL, NULL, NULL, '1', NULL, '$2y$10$4kce2GmG...')
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 232
+[23-Oct-2023 16:03:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'userName' cannot be null in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php:232
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php(232): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/accounts1/index.php(484): regClient(NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, '', NULL, NULL, NULL, NULL, '1', NULL, '$2y$10$narbZm7t...')
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 232
+[23-Oct-2023 16:08:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'userName' cannot be null in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php:232
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php(232): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/accounts1/index.php(484): regClient(NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, '', NULL, NULL, NULL, NULL, '1', NULL, '$2y$10$QYM.igOu...')
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 232
+[23-Oct-2023 17:41:04 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/accounts1/index.php:312
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/accounts1/index.php on line 312
+[24-Oct-2023 17:09:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'firstName' cannot be null in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php:232
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php(232): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/accounts1/index.php(495): regClient('', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, '', NULL, NULL, NULL, NULL, '1', NULL, '$2y$10$Fd0RHuMi...')
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 232
+[24-Oct-2023 17:18:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'firstName' cannot be null in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php:232
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php(232): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/accounts1/index.php(495): regClient('', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, '', NULL, NULL, NULL, NULL, '1', NULL, '$2y$10$M21H.Rcw...')
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 232
+[24-Oct-2023 17:25:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'firstName' cannot be null in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php:232
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php(232): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/accounts1/index.php(495): regClient('', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, '', NULL, NULL, NULL, NULL, '1', NULL, '$2y$10$CZ1DwJr7...')
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 232
+[25-Oct-2023 13:37:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php:632
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php(632): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/accounts1/index.php(354): checkExistingGuest('Wendy', 'Causey', 'wendy.randolph@...')
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 632
+[25-Oct-2023 15:34:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'userName' cannot be null in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php:232
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php(232): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/accounts1/index.php(516): regClient(NULL, 'Wendy ', 'Causey', 'wendy.randolph@...', '156 W Royal Lan...', 'Santaquin ', 'Utah', 'Utah', '84655', NULL, '(385) 422-4173', '40-49', 'Female', '5-7 Years', '4 or more', '1', NULL, '$2y$10$OxfyoTNi...')
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 232
+[25-Oct-2023 15:40:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'userName' cannot be null in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php:232
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php(232): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/accounts1/index.php(516): regClient(NULL, 'Wendy ', 'Causey', 'wendy.randolph@...', '156 W Royal Lan...', 'Santaquin ', 'Utah', 'Utah', '84655', NULL, '(385) 422-4173', '40-49', 'Female', '8 years or more', '3', '1', NULL, '$2y$10$rfex8D9u...')
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 232
+[25-Oct-2023 17:42:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'userName' cannot be null in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php:232
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php(232): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/accounts1/index.php(516): regClient(NULL, 'Wendy ', 'Causey', 'wizzardmom@gmai...', '156 W Royal Lan...', 'Santaquin ', 'Utah', 'Utah', '84655', NULL, '(385) 422-4173', '40-49', 'Female', '8 years or more', '4 or more', '1', NULL, '$2y$10$RiHjyhVg...')
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 232
+[27-Nov-2023 21:04:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function idleLogout() in /home/customer/www/ldswidowsandwidowers.com/public_html/accounts1/index.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/accounts1/index.php on line 40
+[27-Nov-2023 21:06:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function idleLogout() in /home/customer/www/ldswidowsandwidowers.com/public_html/accounts1/index.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/accounts1/index.php on line 40
+[28-Nov-2023 15:24:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function idleLogout() in /home/customer/www/ldswidowsandwidowers.com/public_html/accounts1/index.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/accounts1/index.php on line 40
+[28-Nov-2023 18:14:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function idleLogout() in /home/customer/www/ldswidowsandwidowers.com/public_html/accounts1/index.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/accounts1/index.php on line 40
+[28-Nov-2023 19:07:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function idleLogout() in /home/customer/www/ldswidowsandwidowers.com/public_html/accounts1/index.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/accounts1/index.php on line 40

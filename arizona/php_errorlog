@@ -1,0 +1,197 @@
+[24-Oct-2023 14:16:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'userId' in 'where clause' in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php:605
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php(605): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php(573): az_GActUp('3:00pm', 'Riparian', NULL, NULL, 'Mesa Temple - 8...', 'No', '')
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php on line 605
+[24-Oct-2023 14:26:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'userId' in 'where clause' in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php:606
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php(606): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php(572): az_GActUp('3:00pm', 'Riparian', NULL, NULL, 'Mesa Temple - 8...', 'No', '25')
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php on line 606
+[24-Oct-2023 15:00:03 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php on line 587
+[24-Oct-2023 15:05:43 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE) in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php on line 603
+[24-Oct-2023 15:22:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getConfName() in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php:616
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php on line 616
+[24-Oct-2023 15:26:30 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE), expecting end of file in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php on line 628
+[24-Oct-2023 15:58:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[21000]: Cardinality violation: 1241 Operand should contain 1 column(s) in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php:291
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php(291): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php(228): arizonaGuest('Wendy ', 'Causey', 'wabbitslayer24@...', '156 W Royal Lan...', 'Santaquin ', 'Utah', 'Utah', '84655', NULL, '(385) 422-4173', '50-59', 'Female', '8 years or more', '3', '11')
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php on line 291
+[24-Oct-2023 17:40:52 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE), expecting end of file in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/users/index.php on line 496
+[24-Oct-2023 17:42:56 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE), expecting end of file in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/users/index.php on line 493
+[25-Oct-2023 01:56:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'act_1' cannot be null in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php:322
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php(322): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php(239): azGuest_Act('27', NULL, NULL, NULL, NULL)
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php on line 322
+[25-Oct-2023 01:56:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'act_1' cannot be null in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php:322
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php(322): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php(239): azGuest_Act('27', NULL, NULL, NULL, NULL)
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php on line 322
+[25-Oct-2023 01:57:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'act_1' cannot be null in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php:322
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php(322): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php(239): azGuest_Act('27', NULL, NULL, NULL, NULL)
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php on line 322
+[25-Oct-2023 01:57:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'act_1' cannot be null in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php:322
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php(322): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php(239): azGuest_Act('27', NULL, NULL, NULL, NULL)
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php on line 322
+[25-Oct-2023 13:07:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'act_1' cannot be null in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php:322
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php(322): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php(267): azGuest_Act('27', NULL, NULL, NULL, NULL)
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php on line 322
+[25-Oct-2023 13:09:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'act_1' cannot be null in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php:322
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php(322): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php(267): azGuest_Act('27', NULL, NULL, NULL, NULL)
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php on line 322
+[25-Oct-2023 13:11:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'act_1' cannot be null in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php:322
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php(322): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php(267): azGuest_Act('33', NULL, NULL, NULL, NULL)
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php on line 322
+[25-Oct-2023 13:11:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'act_1' cannot be null in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php:322
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php(322): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php(267): azGuest_Act('33', NULL, NULL, NULL, NULL)
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php on line 322
+[25-Oct-2023 13:14:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'act_1' cannot be null in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php:322
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php(322): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php(267): azGuest_Act('33', NULL, NULL, NULL, NULL)
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php on line 322
+[25-Oct-2023 13:28:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'act_1' cannot be null in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php:322
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php(322): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php(267): azGuest_Act('36', NULL, NULL, NULL, NULL)
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php on line 322
+[25-Oct-2023 13:35:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'act_1' cannot be null in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php:322
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php(322): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php(267): azGuest_Act('36', NULL, NULL, NULL, NULL)
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php on line 322
+[25-Oct-2023 13:42:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'act_1' cannot be null in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php:322
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php(322): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php(268): azGuest_Act('38', NULL, NULL, NULL, NULL)
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php on line 322
+[25-Oct-2023 13:43:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'act_1' cannot be null in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php:322
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php(322): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php(268): azGuest_Act('38', NULL, NULL, NULL, NULL)
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php on line 322
+[25-Oct-2023 13:49:06 UTC] PHP Parse error:  syntax error, unexpected '||' (T_BOOLEAN_OR) in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php on line 198
+[25-Oct-2023 13:54:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'emergencyPhone' cannot be null in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php:392
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php(392): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php(298): azGuest_Other('40', '(385) 422-4172', NULL)
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php on line 392
+[25-Oct-2023 13:58:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '40' for key 'arizonaGuest_Id' in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php:322
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php(322): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php(285): azGuest_Act('40', '3:00pm - Wind C...', 'Riparian Preser...', 'Mesa Temple - 8...', 'No')
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php on line 322
+[25-Oct-2023 14:00:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'emergencyPhone' cannot be null in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php:392
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php(392): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php(298): azGuest_Other('42', '(385) 422-4172', NULL)
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php on line 392
+[25-Oct-2023 14:00:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '42' for key 'arizonaGuest_Id' in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php:322
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php(322): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php(285): azGuest_Act('42', '3:00pm - Wind C...', 'Riparian Preser...', 'Mesa Temple - 8...', 'No')
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php on line 322
+[25-Oct-2023 14:01:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'emergencyPhone' cannot be null in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php:392
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php(392): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php(298): azGuest_Other('44', '(385) 422-4173', NULL)
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php on line 392
+[25-Oct-2023 14:11:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '45' for key 'arizonaGuest_Id' in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php:322
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php(322): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php(284): azGuest_Act('45', '3:00pm - Wind C...', 'Riparian Preser...', 'Mesa Temple - 8...', 'No')
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php on line 322
+[25-Oct-2023 14:29:50 UTC] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php on line 213
+[25-Oct-2023 14:45:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '48' for key 'arizonaGuest_Id' in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php:322
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php(322): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php(287): azGuest_Act('48', '2:30pm - Wind C...', 'Riparian Preser...', 'Mesa Temple - 8...', 'No')
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php on line 322
+[25-Oct-2023 14:48:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '48' for key 'arizonaGuest_Id' in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php:322
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php(322): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php(287): azGuest_Act('48', '2:30pm - Wind C...', 'Riparian Preser...', 'Mesa Temple - 8...', 'No')
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php on line 322
+[25-Oct-2023 14:59:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '52' for key 'arizonaGuest_Id' in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php:322
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php(322): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php(287): azGuest_Act('52', '3:00pm - Wind C...', 'Riparian Preser...', 'Mesa Temple - 8...', 'No')
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php on line 322
+[25-Oct-2023 15:08:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '52' for key 'arizonaGuest_Id' in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php:322
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php(322): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php(287): azGuest_Act('52', '3:00pm - Wind C...', 'Riparian Preser...', 'Mesa Temple - 8...', 'No')
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php on line 322
+[25-Oct-2023 15:09:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '52' for key 'arizonaGuest_Id' in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php:322
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php(322): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php(287): azGuest_Act('52', '3:00pm - Wind C...', 'Riparian Preser...', 'Mesa Temple - 8...', 'No')
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php on line 322
+[25-Oct-2023 15:09:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '52' for key 'arizonaGuest_Id' in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php:322
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php(322): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php(287): azGuest_Act('52', '3:00pm - Wind C...', 'Riparian Preser...', 'Mesa Temple - 8...', 'No')
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php on line 322
+[25-Oct-2023 15:10:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '52' for key 'arizonaGuest_Id' in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php:322
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php(322): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php(287): azGuest_Act('52', '3:00pm - Wind C...', 'Riparian Preser...', 'Mesa Temple - 8...', 'No')
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php on line 322
+[25-Oct-2023 15:11:07 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE), expecting end of file in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php on line 330
+[25-Oct-2023 15:40:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dbc5le46avauj6`.`arizona`, CONSTRAINT `arizona_ibfk_1` FOREIGN KEY (`userId`) REFERENCES `users` (`userId`)) in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php:156
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php(156): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php(103): arizona('Wendy ', '11')
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/arizona_model.php on line 156
+[25-Oct-2023 17:26:00 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php on line 150
+[25-Oct-2023 17:27:04 UTC] PHP Warning:  Use of undefined constant arizonaGuest_Id - assumed 'arizonaGuest_Id' (this will throw an Error in a future version of PHP) in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php on line 156
+[25-Oct-2023 17:27:08 UTC] PHP Warning:  Use of undefined constant arizonaGuest_Id - assumed 'arizonaGuest_Id' (this will throw an Error in a future version of PHP) in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php on line 156
+[25-Oct-2023 17:27:15 UTC] PHP Warning:  Use of undefined constant arizonaGuest_Id - assumed 'arizonaGuest_Id' (this will throw an Error in a future version of PHP) in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php on line 156
+[25-Oct-2023 17:27:35 UTC] PHP Warning:  Use of undefined constant arizonaGuest_Id - assumed 'arizonaGuest_Id' (this will throw an Error in a future version of PHP) in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/arizona/index.php on line 156

@@ -1,0 +1,295 @@
+[15-Jul-2023 03:19:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/accounts-model.php:519
+Stack trace:
+#0 /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/accounts-model.php(519): PDOStatement->execute()
+#1 /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'wizzardmom@gmai...', 'c3b11caa19bfb3c...', '$2y$10$rkhqiJoM...', 1689392091)
+#2 {main}
+  thrown in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 519
+[27-Jul-2023 22:05:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:560
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(560): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'sjett80@gmail.c...', '3cfcdf959b17a14...', '$2y$10$NbW.02Q0...', 1690496428)
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 560
+[27-Jul-2023 23:55:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:560
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(560): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'sjett', '97f63ba2bb58415...', '$2y$10$PJ2eyaP/...', 1690503053)
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 560
+[29-Jul-2023 23:17:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:560
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(560): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'Willybennett17', 'cb09622d9b6b455...', '$2y$10$JiU1UArB...', 1690673554)
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 560
+[04-Aug-2023 23:48:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:560
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(560): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'bevtei@hotmail....', '43153f8bb23de63...', '$2y$10$ksDLrJoi...', 1691193811)
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 560
+[05-Aug-2023 00:03:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:560
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(560): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'Linfreeman@canb...', '050d405109f6185...', '$2y$10$bJUKMDG/...', 1691194710)
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 560
+[05-Aug-2023 01:12:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:560
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(560): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'Kimhutchins', '1d610b4ccf1eacf...', '$2y$10$o3ZDLaOO...', 1691198874)
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 560
+[05-Aug-2023 01:13:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:560
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(560): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'Kimhutchins', '090079d724e2af7...', '$2y$10$qnqaO7k3...', 1691198884)
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 560
+[05-Aug-2023 02:42:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:560
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(560): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'Chadross2112', '823f332b3935424...', '$2y$10$qZh.gGfS...', 1691204260)
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 560
+[06-Aug-2023 04:16:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:560
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(560): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'ElGreen21!!', 'e10853a85aece60...', '$2y$10$ikCGBMDu...', 1691296290)
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 560
+[06-Aug-2023 18:23:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:560
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(560): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'stanlockhartuta...', 'b9e8bf56c905cde...', '$2y$10$SRGypFux...', 1691347113)
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 560
+[06-Aug-2023 18:23:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:560
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(560): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'stanlockhartuta...', '5c84f3c2b43268a...', '$2y$10$ffL86eeE...', 1691347123)
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 560
+[07-Aug-2023 01:04:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:560
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(560): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'ad2d4u@gmail.co...', 'ea92449c41fba6f...', '$2y$10$81LP0e5f...', 1691371148)
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 560
+[10-Aug-2023 14:38:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:560
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(560): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'Fred carlin', 'c74e2a74100b48c...', '$2y$10$gF7/lYfz...', 1691679182)
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 560
+[10-Aug-2023 14:38:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:560
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(560): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'fredcarlin@gmai...', 'd3ab8cf5759ae59...', '$2y$10$Y.zKCbyS...', 1691679236)
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 560
+[10-Aug-2023 14:39:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:560
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(560): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'fredcarlin@hotm...', '1ae81a965e81830...', '$2y$10$bm8NILKx...', 1691679262)
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 560
+[10-Aug-2023 14:39:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:560
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(560): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'fredcarlin@hotm...', '5ef51b957f11d42...', '$2y$10$kCs0amqe...', 1691679291)
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 560
+[14-Aug-2023 13:53:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:560
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(560): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, '5578c738e7abd34...', '46f60ea2d8a7566...', '$2y$10$ayUOrXXj...', 1692022125)
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 560
+[24-Aug-2023 18:11:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:560
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(560): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'Kvlaws', '295a4af6aeb97d3...', '$2y$10$a28fS4zo...', 1692901614)
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 560
+[30-Aug-2023 01:14:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:560
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(560): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'bsreynolds7@gma...', 'f7e7780947e9789...', '$2y$10$dKlCupZ1...', 1693358972)
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 560
+[30-Aug-2023 22:37:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:560
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(560): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'srhoads54', 'a44d910fb05366e...', '$2y$10$08il6W81...', 1693435958)
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 560
+[30-Aug-2023 22:41:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:560
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(560): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'srhoads54', 'eff32f1a38d976b...', '$2y$10$G89eQTAw...', 1693436173)
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 560
+[01-Sep-2023 15:12:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:560
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(560): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'Knorth2238@gmai...', '800bb94dcbdc9bf...', '$2y$10$Gp76GP/6...', 1693582068)
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 560
+[01-Sep-2023 16:39:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:560
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(560): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'smichaux', '32722b92c116db4...', '$2y$10$bm/N0D7S...', 1693587282)
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 560
+[01-Sep-2023 16:40:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:560
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(560): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'smichaux5@yahoo...', '2485adba34e10e0...', '$2y$10$LtZM7Ewk...', 1693587314)
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 560
+[03-Sep-2023 14:22:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:560
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(560): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'rlmunyan', 'f66cc020defda53...', '$2y$10$6wcebkEX...', 1693751847)
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 560
+[03-Sep-2023 14:23:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:560
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(560): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'millville150@gm...', '57f415f900ce130...', '$2y$10$WXk2lVQX...', 1693751894)
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 560
+[04-Sep-2023 03:06:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:560
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(560): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'hale62go@gmail....', '75f87bdc1e3e570...', '$2y$10$H1Eu9ioI...', 1693797663)
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 560
+[09-Sep-2023 00:38:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/accounts-model.php:560
+Stack trace:
+#0 /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/accounts-model.php(560): PDOStatement->execute()
+#1 /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'melissapistoled...', 'b92ee0c4696133a...', '$2y$10$GleUwtjQ...', 1694220804)
+#2 {main}
+  thrown in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 560
+[09-Sep-2023 00:38:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/accounts-model.php:560
+Stack trace:
+#0 /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/accounts-model.php(560): PDOStatement->execute()
+#1 /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'melissapistoled...', '34e010017a1b5d6...', '$2y$10$iLxnIeBl...', 1694220820)
+#2 {main}
+  thrown in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 560
+[09-Sep-2023 00:56:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/accounts-model.php:560
+Stack trace:
+#0 /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/accounts-model.php(560): PDOStatement->execute()
+#1 /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'melissapistoled...', 'd641e4fd545c03f...', '$2y$10$VVquR4Fd...', 1694221864)
+#2 {main}
+  thrown in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 560
+[26-Sep-2023 18:12:30 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/includes/form_to_email.php on line 58
+[26-Sep-2023 18:12:59 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer' not found in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/includes/form_to_email.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/includes/form_to_email.php on line 19
+[26-Sep-2023 18:15:50 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer' not found in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/includes/form_to_email.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/staging3.ldswidowsandwidowers.com/public_html/includes/form_to_email.php on line 19
+[27-Sep-2023 01:31:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:560
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(560): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'JohnsonRH1$', 'a68cffc35d1d067...', '$2y$10$THCNFGcU...', 1695779169)
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 560
+[26-Oct-2023 04:35:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php:560
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php(560): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'wabbitslayer24@...', '68aedc973cc0f4d...', '$2y$10$3DjJxRl8...', 1698295854)
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 560
+[27-Oct-2023 18:12:45 UTC] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php on line 19
+[27-Oct-2023 18:15:02 UTC] PHP Warning:  Use of undefined constant Expires - assumed 'Expires' (this will throw an Error in a future version of PHP) in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php on line 23
+[27-Oct-2023 18:15:02 UTC] PHP Warning:  A non-numeric value encountered in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php on line 24
+[27-Oct-2023 18:41:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'date_created' cannot be null in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php:562
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php(562): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset('wizzardmom@gmai...', 'wizzardmom', '0f0a9d40e180193...', '$2y$10$AYLbCKSQ...', 1698433002, NULL)
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 562
+[27-Oct-2023 18:47:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''Y-m-d H:i:s'))' at line 2 in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php:561
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php(561): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(31): passwordReset('wabbitslayer24@...', 'wabbitslayer24', '39f4e93f690bb1c...', '$2y$10$MDgVwd3s...', 1698433376)
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 561
+[27-Oct-2023 18:50:45 UTC] PHP Warning:  A non-numeric value encountered in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php on line 20
+[27-Oct-2023 18:54:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php:562
+Stack trace:
+#0 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php(562): PDOStatement->execute()
+#1 /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset('wabbitslayer24@...', 'wabbitslayer24', '8903e5b9478c51e...', '$2y$10$1gFAAINp...', 918, '2023-10-27 18:5...')
+#2 {main}
+  thrown in /home/customer/www/staging16.ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 562
+[07-Nov-2023 01:30:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:562
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(562): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'Trantonucci@gma...', 'c43c74f68a8c27b...', '$2y$10$RFkdWj84...', 1699321504, '2023-11-07 01:3...')
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 562
+[07-Nov-2023 01:30:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:562
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(562): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'Trantonucci@gma...', 'ffe34836d1e5a99...', '$2y$10$EPntxY4T...', 1699321514, '2023-11-07 01:3...')
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 562
+[07-Nov-2023 01:32:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:562
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(562): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'Trantonucci@gma...', '5f8ce2018262800...', '$2y$10$H4w6IbCP...', 1699321621, '2023-11-07 01:3...')
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 562
+[07-Nov-2023 01:34:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:562
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(562): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'Trantonucci@gma...', '28b65364f0b5a39...', '$2y$10$ztxSvI7X...', 1699321742, '2023-11-07 01:3...')
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 562
+[07-Nov-2023 13:23:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:562
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(562): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'Trantonucci@gma...', 'bf3866d26adf287...', '$2y$10$tz2YOpMd...', 1699364319, '2023-11-07 13:2...')
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 562
+[07-Nov-2023 17:38:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:562
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(562): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'Mar7070', '8987aeda0d9e169...', '$2y$10$OCuQ79uT...', 1699379608, '2023-11-07 17:3...')
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 562
+[07-Nov-2023 17:40:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:562
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(562): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'Mar7070', 'afb7e09bfff019b...', '$2y$10$zzHIx7sq...', 1699379709, '2023-11-07 17:4...')
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 562
+[08-Nov-2023 16:58:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:562
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(562): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'leshagen@yahoo....', 'dd8be7108d163be...', '$2y$10$Y2ftI57M...', 1699463595, '2023-11-08 16:5...')
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 562
+[25-Nov-2023 15:26:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:562
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(562): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'Tolleygirl', '5cccfcbccdf186b...', '$2y$10$SN09lLyF...', 1700926910, '2023-11-25 15:2...')
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 562
+[09-Dec-2023 06:29:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:562
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(562): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'lsar5@comcast.n...', 'b2bf9f7e317c64f...', '$2y$10$Va/jQ4JT...', 1702104242, '2023-12-09 06:2...')
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 562
+[15-Dec-2023 20:46:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'pwdResetEmail' cannot be null in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php:562
+Stack trace:
+#0 /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php(562): PDOStatement->execute()
+#1 /home/customer/www/ldswidowsandwidowers.com/public_html/includes/reset-request.inc.php(32): passwordReset(NULL, 'Nbeecf@yahoo.co...', '16a0d09b9a84dd9...', '$2y$10$jp7Q1tIx...', 1702674081, '2023-12-15 20:4...')
+#2 {main}
+  thrown in /home/customer/www/ldswidowsandwidowers.com/public_html/model/accounts-model.php on line 562
